@@ -7,6 +7,6 @@ Une petite série d'exercice pour apprendre l'utilisation de bootstrap et des co
 Un matinée de Mai 2018, à BeCode.
 ## A quoi ca ressemble?
 Voici une image des exercices 
-![Exercices](https://github.com/MorganeMeganck/404Page/blob/master/page404.png)
+![Exercices](https://github.com/MorganeMeganck/bootstrap-training/blob/master/exobootstrap.png)
 Et une image du layout en mode grand écran
-![Layout Responsive](https://github.com/MorganeMeganck/404Page/blob/master/page404.png)
+![Layout Responsive](https://github.com/MorganeMeganck/bootstrap-training/blob/master/layoutresponsive.png)
